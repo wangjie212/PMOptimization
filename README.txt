@@ -47,4 +47,3 @@ results_Ex_5_6.pdf
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 The script is still at its early stage and rudimentary.
-Questions/comments/bugs sent to fguo@dlut.edu.c
