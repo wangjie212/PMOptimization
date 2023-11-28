@@ -33,17 +33,17 @@ e.g., for the problem in Example 5.6:
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 Problem data files:
 Ex_4_14.m:	problem in Example 4.14
-Ex_4_18.m:	problem in Example 4.18
 Ex_4_21.m:	problem in Example 4.21
 Ex_5_6.m:	problem in Example 5.6
+Ex_5_8.m:	problem in Example 5.8
 
 Instructions to set the problem data are included in each data file
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 Numerical results: Matlab worksheets for each example 
 results_Ex_4_14.pdf  
-results_Ex_4_18.pdf	
 results_Ex_4_21.pdf	
 results_Ex_5_6.pdf	
+results_Ex_5_8.pdf
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 The script is still at its early stage and rudimentary.
