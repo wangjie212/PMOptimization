@@ -1,4 +1,4 @@
-function [prob] = P_4_20
+function [prob] = Ex_4_21
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %Set the RPMIO problem data in the following form
 %           min_{y\in Y}  f(y)
